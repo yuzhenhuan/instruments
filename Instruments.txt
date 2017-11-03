@@ -1,0 +1,100 @@
+Instruments
+-- Stringed shipping charges (size * 17.0 + weight)
+-- Brass shipping charges (weight * .67 * 2)
+-- Woodwind shipping charges (weight * .78 * 1.82)
+
+-- Strings
+-- -- Acoustic guitar
+-- -- -- -- Arched
+-- -- -- -- Flat top
+-- -- -- -- 6.5 lbs
+-- -- -- -- 5.5 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Electric guitar
+-- -- -- -- Black
+-- -- -- -- Blue
+-- -- -- -- Pickups
+-- -- -- -- 7.5 lbs
+-- -- -- -- 8.5 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Acoustic bass
+-- -- -- -- Arched
+-- -- -- -- Flat top
+-- -- -- -- 7.5 lbs
+-- -- -- -- 6.5 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Electric bass
+-- -- -- -- Red
+-- -- -- -- Green
+-- -- -- -- Pickups
+-- -- -- -- 10.5 lbs
+-- -- -- -- 12.5 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Violin
+-- -- -- -- 1.5 lbs
+-- -- -- -- 1.0 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Viola
+-- -- -- -- 2.5 lbs
+-- -- -- -- 2.0 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Cello
+-- -- -- -- 7.5 lbs
+-- -- -- -- 8.5 lbs
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+
+-- Brass
+-- -- Trumpet
+-- -- -- -- Brass
+-- -- -- -- Silver
+-- -- -- -- Gold
+-- -- -- -- Mouthpiece 1
+-- -- -- -- Mouthpiece 2
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Trombone
+-- -- -- -- Brass
+-- -- -- -- Silver
+-- -- -- -- Gold
+-- -- -- -- Mouthpiece 1
+-- -- -- -- Mouthpiece 2
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+
+-- Woodwind
+-- -- Clarinet
+-- -- -- -- Reed 2.5
+-- -- -- -- Reed 5.0
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Alto Saxophone
+-- -- -- -- Reed 2.5
+-- -- -- -- Reed 5.0
+-- -- -- -- Brass
+-- -- -- -- Silver
+-- -- -- -- Gold
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Tenor Saxophone
+-- -- -- -- Reed 2.5
+-- -- -- -- Reed 5.0
+-- -- -- -- Brass
+-- -- -- -- Silver
+-- -- -- -- Gold
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
+-- -- Baritone Saxophone
+-- -- -- -- Reed 2.5
+-- -- -- -- Reed 5.0
+-- -- -- -- Brass
+-- -- -- -- Silver
+-- -- -- -- Gold
+-- -- -- -- Wholesale price
+-- -- -- -- Retail price
