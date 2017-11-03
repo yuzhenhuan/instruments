@@ -4,12 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Instruments
+public class Instrument
 {
-    class Instrument
+    public Instrument ()
     {
-        static void Main(string[] args)
-        {
-        }
     }
+
+    public Instrument (string brass, string strings, string woodwind)
+    {
+        Brass = brass;
+        Strings = strings;
+        Woodwind = woodwind;
+    }
+
+    public string Brass { get; set; }
+    public string Strings { get; set; }
+    public string Woodwind { get; set; }
 }
